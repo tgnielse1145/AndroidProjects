@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PingPong</string>
+    <string name="play_image_button">Play Image Button</string>
+    <string name="audio_on_image_button">Audio On Image Button</string>
+</resources>
