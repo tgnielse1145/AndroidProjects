@@ -152,7 +152,7 @@ public class GameView extends View {
 
     private int xVelocity() {
         int[] values = {-35, -30, -25, 25, 30, 35};
-        int index = random.nextInt(6);
+        int index = random.nextInt(4);
         return values[index];
     }
 
